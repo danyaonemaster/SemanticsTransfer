@@ -1,6 +1,5 @@
 #include "String.h"
 #include "Array.h"
-#include "Student.h"
 
 int main() {
     String s1("Hello");
